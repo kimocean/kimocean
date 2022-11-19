@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img src="https://img.shields.io/badge/JAVA-0000FF?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JAVA-0000FF?style=flat&logoColor=white"/>
 
 
 <!--
