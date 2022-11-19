@@ -25,7 +25,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimocean&langs_count=10&layout=compact&theme=dark)](https://github.com/kimocean/kimocean)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimocean&layout=compact)](https://github.com/kimocean/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimocean&show_icons=true&theme=github_dark)
 
