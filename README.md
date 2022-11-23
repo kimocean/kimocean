@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimocean&show_icons=true&theme=github_dark)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcly311)](https://solved.ac/lcly311/)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimocean%2Fhit-counter&count_bg=%234595FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
